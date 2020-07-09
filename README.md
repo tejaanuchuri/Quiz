@@ -6,4 +6,3 @@
 4. create a user table according given file score1.php
 5. run on mysql and apache
 6. open 127.0.0.1/project_name
-using php ,mysql ,html , css ,java script ,bootstrap
