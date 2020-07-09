@@ -1,4 +1,4 @@
-## online-quiz-with-a-timer
+## Quiz
 # project setup steps
 1. Clone this repository in the htdoc in xampp floder
 2. Install xampp
